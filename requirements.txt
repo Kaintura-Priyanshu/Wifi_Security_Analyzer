@@ -1,0 +1,2 @@
+# No external Python packages required
+# All dependencies are system tools on Kali Linux
